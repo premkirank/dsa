@@ -10,12 +10,16 @@ https://leetcode.com/problems/subarray-product-less-than-k/
 
 Medium
 
+# Tags
+
+Arrays
+
 # Approaches
 
-- Naive Approach (6/14 tests passed)
+- Naive Approach
   - Forming all contiguous subarrays
   - Product of all values in subarray and filtering based on product < k
-- DP Approach (9/14 tests passed)
+- DP Approach
   - DFS iteration
   - Product of current subarray is product of previous subarray * last value in current subarray
   - Stopping further search for an index if product > k

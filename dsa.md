@@ -2,6 +2,10 @@
 
 - (From https://youtu.be/xF554Tlzo-c?si=OR8ePnlqg9TvprGa)
   - https://leetcode.com/problem-list/top-interview-questions/ 
+- Blind 75
+  - https://www.techinterviewhandbook.org/best-practice-questions/
+- AlgoMonster
+  - https://algo.monster/
 
 # Leetcode Plugins
 
