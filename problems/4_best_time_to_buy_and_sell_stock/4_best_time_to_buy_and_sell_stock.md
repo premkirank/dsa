@@ -1,6 +1,6 @@
 # Problem
 
-https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+- https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 
 # Companies
 
@@ -30,7 +30,7 @@ Arrays, DP
 
 # Resources
 
-https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solutions/1735550/python-javascript-easy-solution-with-very-clear-explanation/
-https://geeksforgeeks.org/best-time-to-buy-and-sell-stock/
+- https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solutions/1735550/python-javascript-easy-solution-with-very-clear-explanation/
+- https://geeksforgeeks.org/best-time-to-buy-and-sell-stock/
 
 # Extras

@@ -1,6 +1,6 @@
 # Problem
 
-https://leetcode.com/problems/subarray-product-less-than-k/
+- https://leetcode.com/problems/subarray-product-less-than-k/
 
 # Companies
 
@@ -32,7 +32,7 @@ Arrays, Sliding Window
 
 # Resources
 
-https://youtu.be/NbgRSeV_ypU?si=Lzq5n3Z0KSSmvBoM
+- https://youtu.be/NbgRSeV_ypU?si=Lzq5n3Z0KSSmvBoM
 
 # Extras
 

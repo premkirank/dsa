@@ -1,6 +1,6 @@
 # Problem
 
-https://leetcode.com/problems/two-sum/
+- https://leetcode.com/problems/two-sum/
 
 # Companies
 
@@ -26,7 +26,7 @@ Arrays, Hash Table
 
 # Resources
 
-https://leetcode.com/problems/two-sum/editorial/
+- https://leetcode.com/problems/two-sum/editorial/
 
 # Extras
 
