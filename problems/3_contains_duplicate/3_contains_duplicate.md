@@ -24,6 +24,4 @@ Arrays
 
 # Resources
 
-https://leetcode.com/problems/two-sum/editorial/
-
 # Extras
