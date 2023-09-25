@@ -35,7 +35,7 @@ def best_time_to_buy_and_sell_stock(prices):
     return max_profit
 
 @timeit
-def best_time_to_buy_and_sell_stock_sliding_window(prices):
+def best_time_to_buy_and_sell_stock_greedy(prices):
     left_window_index = 0
     right_window_index = 1
     max_profit = 0
@@ -58,7 +58,7 @@ if __name__ == "__main__":
     prices = [7, 1, 5, 3, 6, 4]
     prices = [2, 1, 2, 0, 1]
     
-    max_profit = best_time_to_buy_and_sell_stock_sliding_window(prices)
+    max_profit = best_time_to_buy_and_sell_stock_greedy(prices)
     print(max_profit)
     
     max_profit = best_time_to_buy_and_sell_stock(prices)
