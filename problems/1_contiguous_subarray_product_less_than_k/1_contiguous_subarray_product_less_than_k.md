@@ -28,3 +28,7 @@ Arrays
 # Resources
 
 https://youtu.be/NbgRSeV_ypU?si=Lzq5n3Z0KSSmvBoM
+
+# Extras
+
+- Instead of count of valid subarrays, need the actual subarrays to be returned

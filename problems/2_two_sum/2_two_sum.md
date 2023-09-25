@@ -23,3 +23,7 @@ Arrays
 # Resources
 
 https://leetcode.com/problems/two-sum/editorial/
+
+# Extras
+
+- Returning indices of 3 numbers such that their sum is equal to the target
