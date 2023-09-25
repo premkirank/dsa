@@ -16,7 +16,7 @@ Was not able to come up with optimal solution
 
 # Tags
 
-Arrays
+Arrays, Sliding Window
 
 # Approaches
 

@@ -14,7 +14,7 @@ All tests passed but was not optimal approach
 
 # Tags
 
-Arrays
+Arrays, Hash Table
 
 # Approaches
 

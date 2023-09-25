@@ -14,7 +14,7 @@ Was able to come up with optimal approach
 
 # Tags
 
-Arrays
+Arrays, Hash Table, Sorting
 
 # Approaches
 

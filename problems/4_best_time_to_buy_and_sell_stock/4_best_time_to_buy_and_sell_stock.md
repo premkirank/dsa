@@ -14,7 +14,7 @@ Was not able to come up with optimal solution
 
 # Tags
 
-Arrays
+Arrays, DP
 
 # Approaches
 
@@ -26,10 +26,11 @@ Arrays
   - Create a map of prices along with their indices
   - Traverse the sorted array in reverse order and for each price, see if they have any values left of them in actual array
   - If so, subtract them and look if any max profit is there
-- Sliding Window Approach (best)
+- Greedy Approach (best)
 
 # Resources
 
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solutions/1735550/python-javascript-easy-solution-with-very-clear-explanation/
+https://geeksforgeeks.org/best-time-to-buy-and-sell-stock/
 
 # Extras
