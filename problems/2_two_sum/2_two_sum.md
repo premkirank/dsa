@@ -8,6 +8,10 @@ https://leetcode.com/problems/two-sum/
 
 Easy
 
+# Status
+
+All tests passed but was not optimal approach
+
 # Tags
 
 Arrays

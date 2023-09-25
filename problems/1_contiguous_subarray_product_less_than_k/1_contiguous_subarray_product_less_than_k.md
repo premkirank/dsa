@@ -10,6 +10,10 @@ https://leetcode.com/problems/subarray-product-less-than-k/
 
 Medium
 
+# Status
+
+Was not able to come up with optimal solution
+
 # Tags
 
 Arrays
