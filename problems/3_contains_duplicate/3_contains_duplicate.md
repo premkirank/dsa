@@ -18,7 +18,7 @@ Arrays
 
 # Approaches
 
-- Map Approach
+- Map Approach (best)
   - Iterate and store array values in map along with index
   - If value already exists in map, break and return false else true
 

@@ -20,7 +20,7 @@ Arrays
 
 - Naive Approach
   - Iterate and find all pairs, do sum and see if it matches target
-- Map Approach
+- Map Approach (best)
   - Iterate and store array values in map along with index
   - If complement pair exists already in map, we have the solution, else insert
 

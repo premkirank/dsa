@@ -28,6 +28,7 @@ Arrays
   - Product of current subarray is product of previous subarray * last value in current subarray
   - Stopping further search for an index if product > k
   - Storing computed product values in a Map for lookup e.g ```{"[2,3]": 6```
+- Sliding Window Approach (best)
 
 # Resources
 
