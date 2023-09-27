@@ -52,8 +52,8 @@ def maximum_subarray_dp(nums):
 
 if __name__ == "__main__":
     nums = [-2, 1, -3, 4, -1, 2, 1, -5, 4]
-    # nums = [5, 4, -1, 7, 8]
-    # nums = [1]
+    nums = [5, 4, -1, 7, 8]
+    nums = [1]
     
     ans = maximum_subarray_naive(nums)
     print(ans)
