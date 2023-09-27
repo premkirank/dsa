@@ -27,6 +27,6 @@ Array, DP, Divide & Conquer
 
 # Resources
 
-https://leetcode.com/problems/maximum-subarray/solutions/3666304/beats-100-c-java-python-beginner-friendly/
+- https://leetcode.com/problems/maximum-subarray/solutions/1595195/c-python-7-simple-solutions-w-explanation-brute-force-dp-kadane-divide-conquer/
 
 # Extras
