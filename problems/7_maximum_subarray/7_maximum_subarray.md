@@ -18,7 +18,7 @@ Array, DP, Divide & Conquer
 
 # Approaches
 
-- Naive DP Approach
+- Naive Approach
   - For each index, store the sum till that index
   - While iterating on each index, find max of cur value, sum till that index, sum of values removing leftmost individual element each time
 - DP Approach
