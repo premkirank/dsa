@@ -10,7 +10,7 @@ Medium
 
 # Status
 
-Was able to come up with optimal approach
+All tests passed but was not optimal approach
 
 # Tags
 
