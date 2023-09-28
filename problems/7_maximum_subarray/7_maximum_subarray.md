@@ -14,7 +14,7 @@ All tests passed but was not optimal approach
 
 # Tags
 
-Array, DP, Divide & Conquer
+Arrays, DP, Divide & Conquer
 
 # Approaches
 
