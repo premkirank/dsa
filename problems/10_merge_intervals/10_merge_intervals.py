@@ -47,7 +47,7 @@ def merge_intervals_sort_and_optimized(intervals):
             last_output_index = last_output_index + 1
             intervals[last_output_index] = intervals[index]
         
-        print(intervals)
+        # print(intervals)
         
     return intervals[:last_output_index + 1]
 
