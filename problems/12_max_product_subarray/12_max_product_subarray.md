@@ -25,3 +25,6 @@ Arrays, DP
 - https://www.geeksforgeeks.org/maximum-product-subarray/
 
 # Extras
+
+- https://studyalgorithms.com/array/leetcode-maximum-product-subarray/
+- https://youtu.be/lXVy6YWFcRM?si=wUcZxY17gDH3iL8A
